@@ -126,7 +126,7 @@ This will show:
 👉 Do you want me to also make a **degrees version** (`angleMode(DEGREES)`) so you can compare `0°, 90°, 180°, 270°, 360°` with the radians version?
 
 
-## Yes
+## Yes, compare the two angle modes
 
 Perfect 👍 Let’s do a **side-by-side visualization**: one circle labeled in radians and one in degrees. That way you can compare how the angles map.
 
