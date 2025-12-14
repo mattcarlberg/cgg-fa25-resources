@@ -1,7 +1,7 @@
 
 # 2D Arrays in JavaScript
 
-Note: This primer on 2D arrays was generated via large language model. 
+Note: This introduction to 2D arrays was generated via large language model. 
 
 ## 1. What Is a 2D Array?
 
@@ -85,9 +85,7 @@ console.log(grid);
 
 ---
 
-## 5. Looping Through a 2D Array
-
-### Nested Loops (Most Important Pattern)
+## 5. Nested Loop Through a 2D Array
 
 To visit **every cell**, you need **two loops**:
 
@@ -264,12 +262,7 @@ function draw() {
 
 ---
 
-## Final Mental Model
+## Summary
 
-> A 2D array is just an array where **each element is another array** — perfect for representing **grids, boards, and spaces**.
+A 2D array is just an array where **each element is another array** — perfect for representing **grids, boards, and spaces**.
 
-If you want, I can also:
-
-* Add **mouse interaction** to the p5.js grid
-* Turn this into a **game board**
-* Create a **worksheet or practice problems** for students
